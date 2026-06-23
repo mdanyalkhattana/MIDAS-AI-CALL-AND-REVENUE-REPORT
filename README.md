@@ -7,7 +7,8 @@
 <img width="1002" height="584" alt="image" src="https://github.com/user-attachments/assets/94e857e1-4d9a-4925-9aeb-2b36ee5bc7f4" />
 
 
-📋 #Executive Overview
+📋
+# Executive Overview
 This repository contains the core analytical schemas, data models, and business intelligence layout files for an enterprise-grade Power BI Executive Dashboard tracking conversational AI performance and direct revenue correlation.
 
 Optimized for Midas—a prominent USA-based multi-location franchise operation spanning 9 core strategic storefronts (including Tupelo, Oxford, and 7 additional regional centers)—this analytics system bridges the gap between customer service operational metrics and automotive retail revenue pipelines.
@@ -40,7 +41,7 @@ Core CRM Platform: Service Geeni (OpenAPI Rest Endpoint Integration)
 
 Voice Ingestion Layer: Structured JSON-formatted Conversational Telemetry (AI Call Logs)
 
-Core DAX Implementations (Data Analysis Expressions)
+# Core DAX Implementations (Data Analysis Expressions)
 The underlying tabular data engine utilizes advanced DAX measures specifically optimized for performance, handling edge cases, and calculating precise statistical metrics:
 
 Temporal Appointment Counts: Dynamically calculates weekly and monthly reservation frequencies, ensuring robust handling of null records or blank values without skewing historical baselines.
